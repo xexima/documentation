@@ -14,7 +14,7 @@ image::covid19.png[alt=logo,width=250px][orientation=portrait]
 # What is the Covid-19 Self checker?
 this website is a covid self checker using user submitted data to make analysis
 
-# What OS does Pizza Tracker Reside on?
+# What OS does Covid-19 Self checker on?
 It's an native HTML website that can be accessed through any mobile browser or regular web browser.
 
 
