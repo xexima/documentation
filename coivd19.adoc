@@ -47,4 +47,4 @@ App,Location,Environment,URL,Status,Version
 ##GitHub Process Strategy 
 
 
-image::git.png[alt=diagram,width=550px][orientation=portrait]
+image::git.PNG[alt=diagram,width=550px][orientation=portrait]
