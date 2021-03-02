@@ -9,7 +9,7 @@ image::covid19.png[alt=logo,width=250px][orientation=portrait]
 :Covid-Checker_ENV: Staging
 :Covid-Checker_URL: http://sabdul.it.pointpark.edu:3000/
 :Covid-Checker_STATUS: OFFLINE
-:Covid-Checker_VERSION: 0.1
+:Covid-Checker_VERSION: 1.001
 
 # What is the Covid-19 Self checker?
 this website is a covid self checker using user submitted data to make analysis
